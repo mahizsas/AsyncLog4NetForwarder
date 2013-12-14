@@ -1,0 +1,10 @@
+/*.user
+
+/packages
+/src/AsynchronousLog4NetForwarder/bin
+
+/src/AsynchronousLog4NetForwarder/obj
+
+/src/AsynchronousLog4NetForwarder.Tests/bin
+/src/AsynchronousLog4NetForwarder.Tests/obj
+/*.suo
