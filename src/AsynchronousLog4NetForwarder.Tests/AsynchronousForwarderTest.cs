@@ -20,9 +20,7 @@ namespace AsynchronousLog4NetForwarder.Tests
         private AsynchronousForwardingAppender asynchronousForwardingAppender;
         private DebugAppender debugAppender;
         private ILoggerRepository repository;
-
         private ILog log;
-
 
         [SetUp]
         public void TestFixtureSetUp()
